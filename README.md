@@ -89,7 +89,7 @@ There is an EXIT on the left side if the player wishes to leave the casino
 - **ctime**: Used for time; alongside random
 - **stdlib.h**: Used for __srand()__ and random; random-generated events
 
-## Code Requirements
+## Code Features
 ### Generation of Random Events
 - Random generation of a deck of cards; [playingcards.cpp](playingcards.cpp)
 - Random generation of slots; [slotmachine.cpp](slotmachine.cpp)
